@@ -22,12 +22,12 @@ The Purpose was to help the school board and Maria how evidence of academic dish
 
 ### Scores by School Spending
 
- * The $630-644 bin saw a decrease in the passing percentages since Thomas High School was in that spending range. The average math and reading scores for that range remained the same.
+ * The $630 to 644 bin saw a decrease in the passing percentages with Thomas High School in that spending range. The average math and reading scores for that range stayed the same.
 
 ### Scores by School Size
 
-   * The Medium (1000-2000) bin saw a decrease in the passing percentages since Thomas High School was in that school size. The average math and reading scores for that range remained the same.
+   * The 1000-2000 bin saw a decrease in the passing percentages, the average math and reading scores for that range stayed the same.
 
 ### Scores by School Type
 
-   * The Charter schools saw a decrease in the passing percentages since Thomas High School was in that school type. The average math and reading scores for that range remained the same.
+   * The Charter schools saw a decrease in the passing percentages ,the average math and reading scores for that range stayed the same.
